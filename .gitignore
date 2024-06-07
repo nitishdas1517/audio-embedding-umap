@@ -1,2 +1,3 @@
 venv/
 audio_features_embeddings.csv
+data/audio_features_embeddings.csv
